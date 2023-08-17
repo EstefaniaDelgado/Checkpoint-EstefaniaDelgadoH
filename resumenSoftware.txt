@@ -1,0 +1,4 @@
+Lista de Software:
+1.Sistemas Operativos
+2.Navegadores Web
+3.Editores de Texto y Desarrollo

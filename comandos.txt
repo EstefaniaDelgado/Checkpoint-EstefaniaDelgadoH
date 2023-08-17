@@ -1,0 +1,40 @@
+  512  git push -u origin main
+  513  clear
+  514  git init
+  515  git branch -M main
+  516  git remote add origin https://github.com/EstefaniaDelgado/Checkpoint-EstefaniaDelgadoH.git
+  517  git remote -v
+  518  touch main.js index.html
+  519  git commit -m "commit 01 de  EstefaniaDelgadoH"
+  520  git add .
+  521  git commit -m "commit 01 de  EstefaniaDelgadoH"
+  522  git push -u origin main
+  523  git branch feature
+  524  git switch feature
+  525  mkdir Hardware Software SeguridadInformatica
+  526  cd Hardware
+  527  touch resumen.txt
+  528  cd ..
+  529  cd Software
+  530  touch resumen.txt
+  531  cd ..
+  532  cd SeguridadInformatica
+  533  touch resumen.txt
+  534  cd ..
+  535  git status
+  536  git add .
+  537  git status
+  538  git commit -m "commit 02 de EstefaniaDelgadoH"
+  539  git push -u origin feature
+  540  git switch main
+  541  git mv main.js resumenHardware.txt
+  542  git mv index.html resumenSoftware.txt
+  543  cd resumenHardware.txt
+  544  ls
+  545  touch comandos.txt
+  546  history 10
+  547  history 20
+  548  history 30
+  549  history 35
+  550  history 40
+  551  history 40 > comandos.txt
