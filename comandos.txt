@@ -1,5 +1,3 @@
-  512  git push -u origin main
-  513  clear
   514  git init
   515  git branch -M main
   516  git remote add origin https://github.com/EstefaniaDelgado/Checkpoint-EstefaniaDelgadoH.git
